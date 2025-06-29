@@ -3,8 +3,7 @@
 
 ## 🚀 Project Overview
 
-This project aims to forecast **8-hourly water consumption** across residential buildings at IIT Kanpur (e.g., Hall 12, Hall 10, Hall 6). The goal is to develop reliable regression models that predict usage trends based on **meteorological, calendar-based, and engineered time-series features**. These insights can help optimize water resource allocation and support campus-level sustainability planning.
-
+This project focuses on predicting 8-hourly water usage for various residential hostels at IIT Kanpur, such as Hall 12, Hall 10, and Hall 6. It involves building robust regression models that utilize weather conditions, calendar events, and time-series-based engineered features to capture usage patterns. The outcomes aim to support efficient water management and promote sustainable planning across the campus.
 ---
 
 ## 📊 Data Description
