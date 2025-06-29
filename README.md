@@ -1,4 +1,4 @@
-# WaterConsumptionForecasting  
+# Residential_Forecasting_Model
 ## IIT Kanpur Residential Water Usage Prediction
 
 ## 🚀 Project Overview
