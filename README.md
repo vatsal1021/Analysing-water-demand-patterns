@@ -66,7 +66,7 @@ This project aims to forecast **8-hourly water consumption** across residential 
 
 1. **Clone the repository:**
     ```
-    git clone <[repository-url](https://github.com/harshitag2/WaterConsumptionForecasting)>
+    git clone <[repository-url](https://github.com/vatsal1021/Analysing-water-demand-patterns)>
     ```
 
 2. **Install dependencies:**
