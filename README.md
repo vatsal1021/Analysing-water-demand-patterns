@@ -56,7 +56,7 @@ This project aims to forecast **8-hourly water consumption** across residential 
 ### 5. **Model Evaluation**
 - Used **MAPE** (Mean Absolute Percentage Error) as the main evaluation metric.
 - **Top model**: Polynomial Regression (degree 2)
-- **Achieved validation MAPE**: **6.43%**
+- **Achieved validation MAPE**: **6.5%**
 
 ### 6. **Visualization & Insights**
 - Compared predicted vs. actual water usage.
